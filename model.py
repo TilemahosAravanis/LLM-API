@@ -1,6 +1,6 @@
 import cohere
 
-API_KEY = 'Bf7BYX4apb7AZEVfGGdsZojD5uvD3BfCgNZaRlJk'
+API_KEY = 'YOUR_COHERE_API_KEY'
 
 def Chat(history: list[dict], prompt: str):
     # Enter your free API key
